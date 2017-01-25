@@ -1,0 +1,5 @@
+Size : 9
+Turn 1  7C
+Turn 2  3G
+Turn 3  7G
+Turn 4  3C
